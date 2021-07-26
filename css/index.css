@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .customNav{
     background: url("../images/Rectangle\ 22.png");
     background-color: transparent !important;
@@ -13,4 +17,7 @@
     background: url("../images/darkBlue.png");
     background-color: transparent !important;
     background-size: cover;
+}
+.jumbotronSpecial{
+    background:url("../images/Rectangle\ 22.png");
 }
