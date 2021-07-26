@@ -1,0 +1,16 @@
+.customNav{
+    background: url("../images/Rectangle\ 22.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+}
+
+.customNav a{
+    color: white !important;
+}
+
+.jumbotron{
+    background: url("../images/darkBlue.png");
+    background-color: transparent !important;
+    background-size: cover;
+}
